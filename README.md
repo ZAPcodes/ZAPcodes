@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a **B.Tech Data Science and Engineering student** at M
 
 - **Hospital Food Delivery Management System**  
   > A platform to manage and streamline food delivery services for hospitals.  
-  - *[GitHub Repository]([https://github.com/ZAPcodes/hospital_management.git](https://github.com/ZAPcodes/hospital_management)*
+  - *[GitHub Repository](https://github.com/ZAPcodes/hospital_management)*
 
 - **Event Management Dashboard**  
   > A React.js and Express.js-based dashboard for efficient event organization.  
